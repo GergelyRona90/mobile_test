@@ -17,6 +17,6 @@ body {
   background-attachment: fixed;
 }
 p { 
-  max-width: 480px;
+  max-width: (100vw - 10%);
   margin: 0 auto;
 }
